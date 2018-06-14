@@ -1,5 +1,3 @@
-//Eric May
-//CPSC 121 Spring 2017
 //Driver program for our BossFight class
 #include <iostream>
 #include <stdlib.h>
